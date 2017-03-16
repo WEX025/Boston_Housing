@@ -1,2 +1,2 @@
 # Boston_Housing
-Projects of Machine Learning
+The script is for my own record.
